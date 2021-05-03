@@ -1,0 +1,16 @@
+C:\users\hubba\desktop\Sphinx\obj\Debug\net5.0\sphinx.csprojAssemblyReference.cache
+C:\users\hubba\desktop\Sphinx\obj\Debug\net5.0\sphinx.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\hubba\desktop\Sphinx\obj\Debug\net5.0\sphinx.AssemblyInfoInputs.cache
+C:\users\hubba\desktop\Sphinx\obj\Debug\net5.0\sphinx.AssemblyInfo.cs
+C:\users\hubba\desktop\Sphinx\obj\Debug\net5.0\sphinx.csproj.CoreCompileInputs.cache
+C:\users\hubba\desktop\Sphinx\bin\Debug\net5.0\sphinx.exe
+C:\users\hubba\desktop\Sphinx\bin\Debug\net5.0\sphinx.deps.json
+C:\users\hubba\desktop\Sphinx\bin\Debug\net5.0\sphinx.runtimeconfig.json
+C:\users\hubba\desktop\Sphinx\bin\Debug\net5.0\sphinx.runtimeconfig.dev.json
+C:\users\hubba\desktop\Sphinx\bin\Debug\net5.0\sphinx.dll
+C:\users\hubba\desktop\Sphinx\bin\Debug\net5.0\ref\sphinx.dll
+C:\users\hubba\desktop\Sphinx\bin\Debug\net5.0\sphinx.pdb
+C:\users\hubba\desktop\Sphinx\obj\Debug\net5.0\sphinx.dll
+C:\users\hubba\desktop\Sphinx\obj\Debug\net5.0\ref\sphinx.dll
+C:\users\hubba\desktop\Sphinx\obj\Debug\net5.0\sphinx.pdb
+C:\users\hubba\desktop\Sphinx\obj\Debug\net5.0\sphinx.genruntimeconfig.cache
